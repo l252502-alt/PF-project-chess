@@ -45,4 +45,5 @@
 /.vs
 *.vcxproj
 *.vcxproj.*
+/MyGame/Chess pieces/*.png
 *.cpp
