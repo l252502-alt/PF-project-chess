@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+/x64
+/MyGame/x64
+/.vs
+*.vcxproj
+*.vcxproj.*
+*.cpp
